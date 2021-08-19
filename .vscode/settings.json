@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/abhi/eclipse-workspace/Brock_packages/BasicIO.jar",
+        "/Users/abhi/eclipse-workspace/Brock_packages/Media.jar"
+    ]
+}

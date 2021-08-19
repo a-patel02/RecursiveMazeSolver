@@ -1,7 +1,5 @@
 
 import BasicIO.*; 
-import Media.*;
-import java.lang.Math.*;
 
 /**
  * This class finds a path for a maze text file
