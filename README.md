@@ -5,7 +5,7 @@ Solve any size of text maze files.
 ## Description
 
 This project allows users to give an input of a text file maze, with the walls made up off "#" and then path made up off " ". The program will then generate a random start point and a random end point through out the maze. Program will now solve the maze with the generated start and end points and while it does so will draw the path it takes. After a solution to the maze has been found the program will then output a text file that contains the solution to the maze. 
-* FYI: Start postion is represented by: G, End Position is represented by: H.
+* FYI: Start postion is represented by: G, End position is represented by: H.
 
 ## Getting Started
 
