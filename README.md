@@ -15,23 +15,32 @@ This project allows users to give an input of a text file maze, with the walls m
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Download the project to your computer and open the MazeSolver folder with any Java compatible IDE's.
+* Find the section in your IDE that allows you to customize project classpath. Once found, add the BasicIO.jar (inside the Brock_Packages folder) as an external library/path. 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* When you run the program it will ask you to select a file, this is where you select the text file maze that you want solved. (Please refer to "Make your own maze"
+below to learn how to make your own mazes). 
+* Next you will be prompted to select an output file this will be for the solution to the maze, name your file anything you like with .txt at the end (this will make your output file a text file). 
 
-## Help
+## Make your own maze
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* On the first line of the text file have two numbers, first one representing columns in your maze and the second representing the rows in your maze.
+* From the next line you can start to fill up your maze with walls and paths. 
+* Walls are represented by: #####
+* Paths are represented by:      (blank spaces)
+* TIP: Have a outline of walls that hold the maze inside. 
+* Here is an example of a simple maze:
+*  8 	   11
+   ###########
+   #         #
+   #### ######
+   #    #    #
+   #    #    # 
+   # ###### ##
+   #         #
+   ###########
 
 ## Authors
 
