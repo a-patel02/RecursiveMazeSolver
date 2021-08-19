@@ -33,14 +33,14 @@ below to learn how to make your own mazes).
 * TIP: Have a outline of walls that hold the maze inside. 
 * Here is an example of a simple maze:
 *  8 	   11
-   ###########
-   #         #
-   #### ######
-   #    #    #
-   #    #    # 
-   # ###### ##
-   #         #
-   ###########
+  " ########### "
+  " #         # "
+  " #### ###### "
+  " #    #    # "
+  " #    #    # "
+  " # ###### ## "
+  " #         # "
+  " ########### "
 
 ## Authors
 
